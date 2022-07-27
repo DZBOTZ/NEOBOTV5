@@ -1,0 +1,21 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "18254857668@s.whatsapp.net",
+   "ownerName": "DZ STORE",
+   "botName": "AFABOTZ",
+   "footer": "AFAXD © 2022",
+   "butName": "YouTube",
+   "butLink": "https://youtube.com/",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
